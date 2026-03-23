@@ -7,5 +7,5 @@ Learnt about cors(Cross-Origin Resource Sharing), which is used to allow the dif
 2) Feed viewing: The database shows caption from direct database, but for image, we would access the image from the link onto the database
 
 
-## packages used
+## Packages Used
 express, router, mongoose, dotenv, ImageKit(cloud storage provider), multer, cors
